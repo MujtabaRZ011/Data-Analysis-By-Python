@@ -1,5 +1,5 @@
 # Billionaires Statistics Analysis
-###[Lets first explore the Notebook for insights!](https://github.com/MujtabaRZ011/Data-Analysis-By-Python/blob/main/Billionaires%20Statistics%20Analysis/Notebook/Billionaires%20Statistics.ipynb)
+### [Lets first explore the Notebook for insights!](https://github.com/MujtabaRZ011/Data-Analysis-By-Python/blob/main/Billionaires%20Statistics%20Analysis/Notebook/Billionaires%20Statistics.ipynb)
 ## Introduction 🚀
 Just completed an engaging Billionaires Statistics Analysis project utilizing Python. Join me on a quick tour of this intriguing data exploration.
 
@@ -61,6 +61,8 @@ I invite you to explore the Notebook. Your valuable feedback is very crucial for
 A very big thanks to the Kaggle for this awesome Billionaires dataset which helps me doing this project. Super excited to keep exploring the world of data. 🌐🍕 <br>
 Link to Download the Dataset: 
 [Click Here](https://www.kaggle.com/datasets/nelgiriyewithana/billionaires-statistics-dataset/download?datasetVersionNumber=1)
+
+### [Lets explore the Notebook finally for insights!](https://github.com/MujtabaRZ011/Data-Analysis-By-Python/blob/main/Billionaires%20Statistics%20Analysis/Notebook/Billionaires%20Statistics.ipynb)
 
 Thank you! 🚀 
 
