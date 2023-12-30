@@ -1,3 +1,4 @@
+![Billionaire Statistics Analysis](https://github.com/MujtabaRZ011/Data-Analysis-By-Python/blob/main/Billionaires%20Statistics%20Analysis/Notebook/Billionaire%20Statistics%20Analysis.jpg)
 # Billionaires Statistics Analysis
 ### [Lets first explore the Notebook for insights!](https://github.com/MujtabaRZ011/Data-Analysis-By-Python/blob/main/Billionaires%20Statistics%20Analysis/Notebook/Billionaires%20Statistics.ipynb)
 ## Introduction 🚀
